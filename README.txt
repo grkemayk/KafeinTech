@@ -7,6 +7,7 @@ Yollamış olduğunuz case ile ilgili önemli bilgiler aşağıda ki gibidir.
     3.1) Global exception handling ile daha doğru ve stabil bir loglama ve handling işlemi yapılabilir.
     3.2) Interface ve Impl sınıfları şeklinde controller'lar ve service katmanları tasarlanabilir.
     3.3) Flyway gibi bir migration tool'u ile default datalar db'ye migrate edilebilir(Storage ve category dataları gibi).
+    3.4) Sonar üzerinde ki warning'ler çözülebilir.
 
 DB olarak PostgreSQL kullanılmıştır. Resource altından connection string'e erişebilirsiz.
 
